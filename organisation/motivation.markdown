@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Motivation
-parent: This Is Tiefblick
+parent: Organisation
 permalink: /motivation/
 nav_order: 3
 ---
