@@ -7,14 +7,13 @@ nav_order: 2
 ---
 
 <h1>Organisation</h1>
-The goal is to establish a sustainable company, implementing collaborative working.<br>
-For this to happen, all people involved in the project must take ownership of Tiefblick, or maybe we should say "take shareship".<br>
-Tiefblick is ours, Tiefblick is us.<br>
-Think of it as a Collaborative Organisation, a Society, a Fellowship.<br>
-It is new, it is disruptive, it is revolution. :)<br>
-<br>
-As much as Tiefblick wants to escape the norm, a legally binding structure is required for it to exist.<br>
-The structure that seems to be the best approach is a Charitable Trust operating as a Social Enterprise.<br>
-Such a structure allows Tiefblick to be a non-profit while still generating revenue and paying salaries.<br>
-There are no owners. There are trustees who ensure that Tiefblick's vision and values are upheld.<br>
-All involved are stakeholders and get paid the same salary, in a flat hierarchy.
+
+
+<h2>Tiefblick Foundation and Studio</h2>
+
+<p><strong>Tiefblick Foundation, derived from the German word for "deep perception" or "deep insight,"</strong> is a charitable trust based in New Zealand. Our mission is to help people understand their inner and outer worlds better, primarily through storytelling and community engagement. One of our key initiatives is Tiefblick Studio, which focuses on game development. Through this arm, we aim to leverage the power of games to inspire personal growth, build positive social impact, and nurture talent.</p>
+
+<p><strong>Tiefblick Studio</strong> operates as the social impact game development arm of the Foundation, creating games that focus on personal growth and addressing important societal topics. Our approach is centered around collaboration, creativity, and community engagement to ensure that every voice is heard, and our games make meaningful contributions to the well-being of individuals and society.</p>
+
+
+
