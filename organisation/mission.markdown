@@ -3,7 +3,7 @@ layout: default
 title: Mission & Vision
 parent: Organisation
 permalink: /mission/
-nav_order: 3
+nav_order: 2
 ---
 
 <h1>Mission & Vision</h1>

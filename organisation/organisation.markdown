@@ -3,7 +3,7 @@ layout: default
 title: Organisation
 parent:
 permalink: /organisation/
-nav_order: 2
+nav_order: 
 ---
 
 <h1>Organisation</h1>
