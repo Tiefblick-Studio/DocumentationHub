@@ -2,7 +2,7 @@
 layout: default
 title: Team
 parent: Organisation
-permalink: organisation/team/
+permalink: /team/
 nav_order: 5
 ---
 <style>

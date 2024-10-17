@@ -2,7 +2,7 @@
 layout: default
 title: Governance
 parent: Organisation
-permalink: organisation/governance/
+permalink: /governance/
 nav_order: 4
 ---
 

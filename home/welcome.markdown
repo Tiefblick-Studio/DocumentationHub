@@ -2,7 +2,7 @@
 layout: default
 title: Welcome Home!
 parent: Home
-permalink: /thisis/
+permalink: /welcome/
 nav_order: 1
 ---
 

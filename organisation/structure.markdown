@@ -2,7 +2,7 @@
 layout: default
 title: Structure
 parent: Organisation
-permalink: organisation/structure/
+permalink: /structure/
 nav_order: 1
 ---
 

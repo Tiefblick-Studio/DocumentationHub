@@ -2,7 +2,7 @@
 layout: default
 title: Funding & Finances
 parent: Organisation
-permalink: organisation/finances/
+permalink: /finances/
 nav_order: 4
 ---
 
