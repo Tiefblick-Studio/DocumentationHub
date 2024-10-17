@@ -2,7 +2,7 @@
 layout: default
 title: FAQ
 parent: Home
-permalink: /thisis/
+permalink: /faq/
 nav_order: 2
 ---
 
