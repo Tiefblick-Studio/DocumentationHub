@@ -29,6 +29,8 @@ github_username:  jekyll
 
 # Build settings
 theme: just-the-docs
+just_the_docs:
+  footer_content: tiefblick-footer.html
 # Color scheme supports "light" (default) and "dark"
 color_scheme: light
 plugins:
