@@ -21,7 +21,7 @@
 title: Tiefblick Hub
 email: connect@dominiksaur.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Tiefblick Studio Hub is a collection of resources for the Tiefblick Studio team.
+  Tiefblick Hub is a collection of resources for the Tiefblick Foundation and Studio team.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
