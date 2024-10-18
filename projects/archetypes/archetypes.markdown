@@ -2,15 +2,50 @@
 layout: default
 title: Archetypes - The Rite of Passage
 parent: Projects
-permalink: /projects/archetypes
+permalink: /archetypes/
 nav_order: 3
 ---
 
 <h1>Archetypes - The Rite of Passage</h1>
-<b>NEEDS REWORK/REWORDING</b><br>
-The first project is in its demo version and it is called <a href="https://store.steampowered.com/app/2096720/ARCHETYPES__The_Rite_Of_Passage/" target="_blank">ARCHETYPES - The Rite Of Passage</a>.<br>
-This game has as its goal to empower young males to find their archetype in the game, and consequentially understand their strengths and how to insert themselves in society.<br>
-ARCHETYPES is the first concept from the studio, and has a very specific target audience, as it is closely tied to Dom's personal journey.<br>
-A possible next project is a counterpart of ARCHETYPES for young females.<br>
-The ultimate goal is to have non-binary projects and options to offer to the community, to improve learning, self-esteem, skills, etc.<br>
-No such thing as games only focused on boys. :)
+<b>Summary</b>
+A self-exploration journey, aiming to support young males to understand their own archetypal blueprint and find their confidence in a world of ever-changing definition of healthy masculinity.
+<br>
+<b>Concept</b>
+”Archetypes - The Rite of Passage” is an interactive game experience designed to inspire young men
+on their journey toward self-understanding and growth, while directly addressing the stigma
+surrounding mental distress. <br>
+We aim to challenge the prevailing social expectations of men,
+particularly the notion of stoicism, which often leads to isolation and deepens feelings of depression,
+a key factor in the high rates of male suicide.
+<br>
+<b>Target Audience</b>
+Our primary focus is on young men, aged 13-24, who may be struggling with feelings of isolation,
+depression, or anxiety, but who are also influenced by societal pressures to ”tough it out” on their
+own.<br>
+Extending the target audience to include teenagers allows us to reach individuals at a critical
+stage in their development, where they are beginning to form their understanding of masculinity,
+mental health, and social expectations.<br>
+By addressing these themes earlier, we can help shape
+healthier perspectives before harmful attitudes and behaviours become deeply ingrained.
+<br>
+<b>Behavioural Change</b>
+We hope to shift attitudes toward mental distress by presenting healthier models of masculinity—
+ones that embrace vulnerability, connection, and community. By giving them an immersive, storydriven experience grounded in Carl Jung’s archetypes, they can gain insight into their inner selves and
+learn to navigate life’s challenges with a broader set of tools.
+<br>
+<b>Outcomes and Impact</b>
+The primary outcome we seek is a shift in attitudes among young men toward seeking support and
+embracing vulnerability. We aim to provide young men with an experience that challenges their
+internalized beliefs about masculinity, allowing them to explore the consequences of their choices
+within a safe, narrative-driven environment. By offering multiple story paths, players can engage with
+different facets of their psyche, ultimately guiding them toward healthier, more supportive behaviours
+in real life.
+<br>
+We plan to support this experience with educational materials for teachers, mentors, and community
+leaders. These resources will facilitate meaningful discussions after gameplay, helping young men
+process the lessons learned and apply them to their own lives. Additionally, we are exploring the
+possibility of running community events that allow those without access to traditional support
+systems to experience the game and its messages.
+<br>
+<h2>Demo On Steam</h2>
+<a href="https://store.steampowered.com/app/2096720/ARCHETYPES__The_Rite_Of_Passage/" target="_blank">ARCHETYPES - The Rite Of Passage</a>
