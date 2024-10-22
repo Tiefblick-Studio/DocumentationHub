@@ -50,4 +50,4 @@ systems to experience the game and its messages.
 <h2>Demo On Steam</h2>
 <a href="https://store.steampowered.com/app/2096720/ARCHETYPES__The_Rite_Of_Passage/" target="_blank">ARCHETYPES - The Rite Of Passage</a>
 <h2>Game Design Document</h2>
-<a href="https://store.steampowered.com/app/2096720/ARCHETYPES__The_Rite_Of_Passage/" target="_blank">Game Design Doc</a>
+<a href="https://docs.google.com/document/d/1Bz35g77zMv1acE2dturWYVdx6KfEMZxkA9ZxOYqqgLQ/edit?usp=drive_link" target="_blank">Game Design Doc</a>
