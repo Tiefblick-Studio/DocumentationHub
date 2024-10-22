@@ -49,3 +49,5 @@ systems to experience the game and its messages.
 <br><br>
 <h2>Demo On Steam</h2>
 <a href="https://store.steampowered.com/app/2096720/ARCHETYPES__The_Rite_Of_Passage/" target="_blank">ARCHETYPES - The Rite Of Passage</a>
+<h2>Game Design Document</h2>
+<a href="https://store.steampowered.com/app/2096720/ARCHETYPES__The_Rite_Of_Passage/" target="_blank">Game Design Doc</a>
